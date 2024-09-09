@@ -1,3 +1,0 @@
-Since (entermonth) (today)
-Perfect P1: 8(2)
-Perfect P2: 5(2)
